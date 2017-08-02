@@ -1,4 +1,4 @@
-# XamarinFormsFingerPrint
+# FingerPrint for Xamarin Forms
 How to use finger print in your Xamarin Forms (iOS and Android)
 
 ## Code explanation
