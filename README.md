@@ -6,3 +6,5 @@ This code is pretty easy to use. Althout, if you want to test it in an emulator 
 You can find my post http://www.puresourcecode.com/dotnet/post/Xamarin-Forms-and-FingerPrint-(iOS-and-Android-only) 
 
 Happy coding!
+
+![Xamarin Forms Fingerprint](http://puresourcecode.com/dotnet/image.axd?picture=XamarinForms-Finferprint-Dialog.PNG)
